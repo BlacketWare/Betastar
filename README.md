@@ -7,23 +7,20 @@
 
   <h2>Directory</h2>
   <h3>chat</h3>
-  <p><b>autoDeclineTrade.js</b> - Blocks ANYONE from sending trade requests.</p>
   <p><b>blockUser.js</b> - Blocks a user from sending messages & trade requests!</p>
-  <p><b>chatDownloader.js</b> - Downloads everything in the chat you can see by scrolling up. Also a Tampermonkey.</p>
+  <p><b>downloadChat.js</b> - Downloads everything in the chat you can see by scrolling up. Also a Tampermonkey.</p>
   <h3>crates</h3>
-  <p><b>calculateChances.js</b> - Gives you the chance of you getting an element from a certain number of crates.</p>
-  <p><b>spamOpenCrates.js</b> - Open crates extremely quickly. Also a school version.</p>
+  <p><b>spamOpenCrates.js</b> - Open crates extremely quickly.</p>
   <h3>elements</h3>
   <p><b>createElement.js</b> - Create a fake element with all sorts of options! ONLY ON YOUR SCREEN.</p>
   <p><b>seePlayerElements.js</b> - See a Player's elements as if they're your own!</p>
   <p><b>sellAllElements.js</b> - Sell all your elements for quick cash.</p>
   <p><b>sellDupeElements.js</b> - Sell all your duplicate elements to make cash.</p>
   <p><b>spoofAllElements.js</b> - Makes it look like you have every element in game.</p>
-  <h3>extra</h3>
-  <p><b>changeUsername.js</b> - Change your username with JS.</p>
-  <p><b>fakeElementPFP.js</b> - For role Fabled or above, set an element you don't have as your PFP!</p>
-  <p><b>spamConfetti.js</b> - Spam your screen with the daily rewards confetti effect. COLOR CUSTOMIZING SOON!</p>
-  <p><b>viewUser.js</b> - View a user, as if you're viewing their stats, but a more compact layout.</p>
+  <h3>global</h3>
+  <p><b>fakePFP.js</b> - For role Fabled or above, set an element you don't have as your PFP!</p>
+  <p><b>confetti.js</b> - Spam your screen with the daily rewards confetti effect. COLOR CUSTOMIZING SOON!</p>
+  <h3>Scripts not listed above should only be used by developers.</h3>
   <br>
 
   <h2>Usage</h2>
