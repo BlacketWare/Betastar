@@ -1,6 +1,4 @@
-alert('Script activated!\n\nPurpose: See Player Elements\nAuthor: VillainsRule\nSource: BlacketWare\nDestructive: No\nUsage: Automatic\nTo Stop: reload');
-
-var x = prompt('Whose elements do you want to view?\nScript made by VillainsRule.');
+let x = prompt('Whose elements do you want to view?\nScript made by VillainsRule.');
 Array.from(document.getElementById('#elementList').children).forEach(a => a.remove());
 
 $.get('/api/elements?name=' + x, function(data) {
